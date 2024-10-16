@@ -12,6 +12,10 @@ partial collision (hex nibble -> A-P cycle) 22 chars
 SimonGoater2ABBHAFFFFNFAEGENMPAIPNCICI	e910fe80a22338dcd26788739d732793
 SimonGoater2ABBHDGJIKPACBPPGFOALMMFIHN	e910fe80a22338dcd26788e5401ff216
 
+[output from md5cycle.c]
+Cycle for SimonGoater2ABBHDGJIKPACBPPGFOALMMFIHN confirmed with 185018443831 elements.
+Previous element is = SimonGoater2ABBHCPFBCEOKHGGDONOCLHAOJC
+
 SHA256
 ======
 
